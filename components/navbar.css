@@ -1,0 +1,32 @@
+.lnk{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    align-items: center;
+}
+
+
+@media screen and (max-width: 768px) {
+    .lnk{
+        display: none;
+    }
+    .menu{
+        display: flex;
+        width: 30px;
+        height: 30px;   
+        mix-blend-mode: darken;
+        cursor: pointer;
+    }
+    .lnk.open{
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 60px;
+        right: 20px;
+        background: orange;
+        padding: 10px;
+        border-radius: 8px;
+        z-index: 1000;
+        opacity: 1;
+    }
+}

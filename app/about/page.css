@@ -1,0 +1,28 @@
+@media screen and (max-width: 768px) {
+.about{
+    width:100vw;
+    height:100vh;
+    background-image:url('/backgrd.jpg')no-repeat center cover ;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+}
+.head{
+    display: flex;
+    font-size: 30px;
+    text-align: center;
+    height: auto;
+}
+.para{
+    display: flex;
+    font-size: 15px;
+    text-align: center;
+    margin: 10px;
+    width:70vw;
+    height:auto ;
+    gap: 2px;
+    padding: auto;
+    margin: 0px;
+}
+}

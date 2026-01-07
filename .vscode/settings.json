@@ -1,0 +1,17 @@
+{
+    
+  "emmet.triggerExpansionOnTab": true,
+
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+
+  "emmet.showExpandedAbbreviation": "always",
+
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+
+
+}
