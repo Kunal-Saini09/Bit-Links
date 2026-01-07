@@ -1,3 +1,44 @@
+# 🔗 URL Shortener Web Application
+
+A simple and efficient web-based URL shortener that converts long URLs into short, shareable links with instant redirection. This project is ideal for learning full-stack development and can be easily extended with advanced features like analytics, custom aliases, and link expiration.
+
+---
+
+## 🚀 Features
+
+- Shorten long URLs into compact links
+- Instant redirection to original URLs
+- Clean and responsive UI
+- Fast and lightweight
+- Scalable backend architecture
+- Easy to extend with analytics & authentication
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- HTML / CSS / JavaScript  
+- React / Next.js *(if applicable)*
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- MongoDB *(or any preferred database)*
+
+---
+
+## 📸 Screenshots
+
+*(Add screenshots here once available)*
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
