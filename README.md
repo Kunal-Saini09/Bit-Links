@@ -33,6 +33,8 @@ A simple and efficient web-based URL shortener that converts long URLs into shor
 ## 📸 Screenshots
 
 *(Add screenshots here once available)*
+<img width="1919" height="874" alt="Screenshot 2026-01-07 205920" src="https://github.com/user-attachments/assets/10492789-58ea-4930-a3b8-2f0c8eb6457e" />
+
 
 
 
