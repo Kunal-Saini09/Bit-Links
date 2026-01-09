@@ -1,4 +1,5 @@
 import clientPromise from "@/lib/mongodb"
+import { redirect } from "next/navigation"
 
 export async function POST(request) {
     try {
